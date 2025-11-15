@@ -1,0 +1,9 @@
+#wrapper{
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+#wrapper p {
+    font-size: 50px;
+    text-align: center;
+}
